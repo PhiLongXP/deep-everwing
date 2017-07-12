@@ -1,0 +1,5 @@
+{
+  "name": "everwing",
+  "shape": [64, 32],
+  "class": ["game", "home", "over"]
+}
